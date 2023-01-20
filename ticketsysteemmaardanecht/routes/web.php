@@ -6,6 +6,8 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PagesController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\EventController;
+use App\Http\Controllers\EditController;
+use App\Http\Controllers\DeleteController;
 use App\Http\Middleware\Admin;
 
 /*
